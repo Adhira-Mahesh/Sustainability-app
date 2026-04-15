@@ -65,3 +65,5 @@ You will also need a Firebase account and a generated web configuration to conne
 
 ---
 *Nurture the future. Let's make an impact, together.*
+
+Made under the guidance of Prof. Neha Ashok at Pillai College of Engineering (PCE)
