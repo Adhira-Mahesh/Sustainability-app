@@ -7,12 +7,12 @@ import { getFirestore } from "firebase/firestore"; // For Database
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDmv0HaRj8lbgF9e_bBjRbjrmlSHDrkGVY",
-  authDomain: "sustainability-events-4d802.firebaseapp.com",
-  projectId: "sustainability-events-4d802",
-  storageBucket: "sustainability-events-4d802.firebasestorage.app",
-  messagingSenderId: "356503802818",
-  appId: "1:356503802818:web:91d881185ceedca39fbc5b"
+  apiKey: " ",
+  authDomain: "",
+  projectId: "",
+  storageBucket: " ",
+  messagingSenderId: "",
+  appId: " "
 };
 
 
